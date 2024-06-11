@@ -1,0 +1,51 @@
+_repo: The-metal-horde_73679
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: De Pauw
+    aliases:
+    - Pauw, J. de
+    - Pauw, De
+    gutenberg_agent_id: '57177'
+    url: http://www.gutenberg.org/2009/agents/57177
+  - agent_name: Morey, Leo
+    alias: Morey y Pena, Leopoldo Raul
+    birthdate: 1889
+    deathdate: 1965
+    gutenberg_agent_id: '32299'
+    url: http://www.gutenberg.org/2009/agents/32299
+creator:
+  author:
+    agent_name: Campbell, John W., Jr. (John Wood)
+    aliases:
+    - Stuart, Don A.
+    - Campbell, John Wood
+    - Campbell, John W. (John Wood)
+    birthdate: 1910
+    deathdate: 1971
+    gutenberg_agent_id: '9112'
+    url: http://www.gutenberg.org/2009/agents/9112
+    wikipedia: https://en.wikipedia.org/wiki/John_W._Campbell
+description: ''
+gutenberg_issued: '2024-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73679'
+language: en
+pgterms:marc905: 20240330035928campbell
+pgterms:marc906: '1930'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aJamaica, NY :$bExperimenter Publications Inc., $c1930.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'War stories'
+- !lcsh 'Artificial intelligence -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The metal horde
+url: http://www.gutenberg.org/ebooks/73679
